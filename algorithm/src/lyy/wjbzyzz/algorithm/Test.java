@@ -8,8 +8,8 @@ public class Test {
     
     public static void main(String[] arg){
     	
-    	String arr = "3,1,1,1,3,1,1,1";
-    	//String arr = "3,4,2,1,3,1";
+    	//String arr = "3,1,1,1,3,1,1,1";
+    	String arr = "3,4,2,1,3,1";
     	arr = jump(arr);
     	
     	System.out.println(arr);
